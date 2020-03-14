@@ -1,7 +1,7 @@
 # Minecraft Server On IBM Cloud
 Support files to deploy your minecraft server on IBM cloud
 
-[![]()](https://www.youtube.com/watch?v=Of1WW3ITaiY)
+[![](https://img.youtube.com/vi/BsMNknDcZFM/0.jpg)](https://www.youtube.com/watch?v=BsMNknDcZFM)
 
 Part 1 - https://www.youtube.com/watch?v=BsMNknDcZFM
 
